@@ -3,3 +3,4 @@ B in main
 E in main
 F in main
 G in main
+W in main
