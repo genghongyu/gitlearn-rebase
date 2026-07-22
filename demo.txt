@@ -6,3 +6,4 @@ G in main
 W in main
 S in main
 T in main
+TEST
